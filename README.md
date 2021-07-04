@@ -2,7 +2,7 @@
 
 A loading animation widget for Qt
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 A very example to use it:
 
